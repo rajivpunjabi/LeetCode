@@ -1,5 +1,5 @@
 ###LeetCode
 
-# | Title | Language | Difficulty | Tags
+| #   | Title | Language | Difficulty | Tags |
+| --- | ----- | -------- | ---------- | ---- |
 
------------- | ------------- | ------------ | ------------ | ------------
