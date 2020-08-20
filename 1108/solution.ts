@@ -22,5 +22,14 @@ function defangIPaddr(address: string): string {
 	return address.split('.').join('[.]');
 }
 
+function defangIPaddr2(address: string): string {
+	return address.replace(/\./g, address);
+}
+
+//defangIPaddr
+console.log(defangIPaddr('1.1.1.1'));
+console.log(defangIPaddr('255.100.50.0'));
+
+//defangIPaddr2
 console.log(defangIPaddr('1.1.1.1'));
 console.log(defangIPaddr('255.100.50.0'));
