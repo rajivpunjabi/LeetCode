@@ -9,3 +9,4 @@
 | [1281](1281/solution.ts) | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | TypeScript | Easy       | Math          |
 | [1389](1389/solution.ts) | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)                             | TypeScript | Easy       | Array Methods |
 | [1221](1221/solution.ts) | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)                                     | TypeScript | Easy       | -             |
+| [709](709/solution.ts)   | [To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                                               | TypeScript | Easy       | -             |
